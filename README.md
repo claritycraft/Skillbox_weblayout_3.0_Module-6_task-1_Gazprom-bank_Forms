@@ -12,9 +12,9 @@ For the Gazprombank.Tech IT team portal, create the layout for a startup applica
 ## Ru: Выполненное задание: 
 Для портала IT-команды «Газпромбанк.Тех» сверстайте форму подачи заявки для раздела стартапов, основываясь на дизайне из предоставленного макета в Figma.
 
-En: Portfolio layout link: figma.com/file/mEOvCD4YfuIBP5CCqQae1q/Газпромбанк---Разработка-FWEB-9793?type=design&node-id=0-1&mode=design
+En: Portfolio layout link: [figma.com/file/mEOvCD4YfuIBP5CCqQae1q/Газпромбанк---Разработка-FWEB-9793?type=design&node-id=0-1&mode=design](https://www.figma.com/design/mEOvCD4YfuIBP5CCqQae1q/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-FWEB-9793?node-id=0-1&p=f&t=V5X4cZ7WZZbXORRC-0)
 
-Ru: Ссылка на макет c портфолио: figma.com/file/mEOvCD4YfuIBP5CCqQae1q/Газпромбанк---Разработка-FWEB-9793?type=design&node-id=0-1&mode=design
+Ru: Ссылка на макет c портфолио: [figma.com/file/mEOvCD4YfuIBP5CCqQae1q/Газпромбанк---Разработка-FWEB-9793?type=design&node-id=0-1&mode=design](https://www.figma.com/design/mEOvCD4YfuIBP5CCqQae1q/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-FWEB-9793?node-id=0-1&p=f&t=V5X4cZ7WZZbXORRC-0)
 
 ## Technologies Used
 - HTML5
