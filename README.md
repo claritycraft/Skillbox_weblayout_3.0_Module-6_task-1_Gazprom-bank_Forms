@@ -1,4 +1,5 @@
-# Skillbox_weblayout_3.0_Module-6_task-1_Gazprom-bank_Forms
+# En: Skillbox_weblayout_3.0_Module-6_task-1_Gazprom-bank_Forms
+# Ru: Skillbox_weblayout_3.0_Модуль-6_Задание-1_Газпромбанк_Формы
 
 #### Пожалуйста, поставьте звезду ⭐ если этот проект Вас заинтересовал
 #### Please give this project a star ⭐ if you found it interesting.
