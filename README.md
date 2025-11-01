@@ -16,15 +16,19 @@ En: Portfolio layout link: [figma.com/file/mEOvCD4YfuIBP5CCqQae1q/Газпром
 
 Ru: Ссылка на макет c портфолио: [figma.com/file/mEOvCD4YfuIBP5CCqQae1q/Газпромбанк---Разработка-FWEB-9793?type=design&node-id=0-1&mode=design](https://www.figma.com/design/mEOvCD4YfuIBP5CCqQae1q/%D0%93%D0%B0%D0%B7%D0%BF%D1%80%D0%BE%D0%BC%D0%B1%D0%B0%D0%BD%D0%BA---%D0%A0%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B0-FWEB-9793?node-id=0-1&p=f&t=V5X4cZ7WZZbXORRC-0)
 
-## Technologies Used
+## En: Technologies Used
+## Ru: Используемые технологии
 - HTML5
 - CSS3
 - Flexbox / Grid
 - Media Queries
 - Figma (design mockup)
 
-## License
+## En: License
+## Ru: Лицензия
 This project is for educational purposes only. Do not copy or redistribute without permission.
 
-## Gazprom site
+## En: Site Gazprom bank
+## En: Сайт Газпром бaнк
+
 <img width="1440" height="3709" alt="Стартапам - Газпромбанк тех" src="https://github.com/user-attachments/assets/d486066a-38ab-4551-b197-b457d2e753c7" />
