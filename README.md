@@ -31,7 +31,6 @@ This project is for educational purposes only. Do not copy or redistribute witho
 ## Ru: Лицензия
 Этот проект предназначен исключительно для образовательных целей. Не копируйте и не распространяйте без разрешения.
 
-## En: Site Gazprom bank
-## En: Сайт Газпром бaнк
+## En: Site Gazprom bank / Ru: Сайт Газпром бaнк
 
 <img width="1440" height="3709" alt="Стартапам - Газпромбанк тех" src="https://github.com/user-attachments/assets/d486066a-38ab-4551-b197-b457d2e753c7" />
