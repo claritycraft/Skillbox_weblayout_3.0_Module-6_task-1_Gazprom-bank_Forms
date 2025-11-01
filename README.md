@@ -18,6 +18,7 @@ Ru: Ссылка на макет c портфолио: [figma.com/file/mEOvCD4Yf
 
 ## En: Technologies Used
 ## Ru: Используемые технологии
+
 - HTML5
 - CSS3
 - Flexbox / Grid
@@ -25,8 +26,10 @@ Ru: Ссылка на макет c портфолио: [figma.com/file/mEOvCD4Yf
 - Figma (design mockup)
 
 ## En: License
-## Ru: Лицензия
 This project is for educational purposes only. Do not copy or redistribute without permission.
+
+## Ru: Лицензия
+Этот проект предназначен исключительно для образовательных целей. Не копируйте и не распространяйте без разрешения.
 
 ## En: Site Gazprom bank
 ## En: Сайт Газпром бaнк
